@@ -28,7 +28,7 @@ p{
     font-family: 'Montserrat', sans-serif;
     line-height: 2;
 }
-@media screen and(max-width:1240px){
+@media screen and (max-width:1400px){
 .top-container{
     background-color: #E4F9F5;
     position:relative;
@@ -37,19 +37,21 @@ p{
 }
 }
 
+
+
 .middle-container{
     margin:100px 0;
 
    
 
 }
-
+@media screen and (max-width:1400px){
 .bottom-container{
 
    background-color: #66BFBF;
    padding: 50px 0 20px;
 }
-
+}
 .bottom-cloud{
     position:absolute;
     left:200px;
