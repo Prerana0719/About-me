@@ -34,3 +34,8 @@ float:right;
   position:absolute;
   right:300px;
 }
+.bottom-cloud{
+position:absolute;
+  top:30px;
+  left:200px;
+}
