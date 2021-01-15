@@ -29,3 +29,8 @@ body{
 width:100%;
   font-family: 'Merriweather', serif;
 }
+.top-cloud{
+float:right;
+  position:absolute;
+  right:200px;
+}
